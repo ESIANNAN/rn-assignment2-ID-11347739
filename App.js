@@ -13,9 +13,9 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'linear-gradient(180deg, red, yellow)',
+    backgroundColor:'#D77EE4',
     alignItems: 'center',
     justifyContent: 'center',
-    fontSize: '24',
+  
   },
 });

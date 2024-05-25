@@ -16,6 +16,9 @@ const styles = StyleSheet.create({
     backgroundColor:'#D77EE4',
     alignItems: 'center',
     justifyContent: 'center',
-  
+    text:{
+    fontSize:24,
+
+  }
   },
 });

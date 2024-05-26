@@ -12,3 +12,5 @@ videos ato solve the issue. The instructions were for each student to make a tex
 I decided to make the word 'Philomina' bold by using a different class in an already made class because if I decide to call out the class in the css component and make it bold, it will affect the whole text. The font size was changed to 24 as instructed and I decided to use a shade of pink (#FFB6C1). I got the color code from a CSS color chart I found on the internet.
 
 I committed every staged changes to my github account. Every saved work on VS code refreshes the application on the expo app which helps if to know if you're writing the good codes for the app and to check the development as well.
+
+ID number: 11347739

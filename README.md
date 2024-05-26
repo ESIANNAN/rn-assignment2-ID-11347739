@@ -1,5 +1,4 @@
 # rn-assignment2-ID-11347739
-![Uploading 1000126603.jpg…]()
 
 
 
